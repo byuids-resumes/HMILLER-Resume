@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Hugh Miller's Resume
 ---
 # Hugh Miller
