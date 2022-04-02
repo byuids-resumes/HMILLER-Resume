@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Hugh Miller's Resume
 ---
 # Hugh Miller
 Student of Mathematical Science. Aspiring Actuary.
