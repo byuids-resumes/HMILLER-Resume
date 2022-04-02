@@ -3,7 +3,7 @@ layout: resume
 title: Hugh Miller's Resume
 ---
 # Hugh Miller
-Student of Mathematical Science. Aspiring Actuary.
+Student of Mathematical Science. Aspiring Actuary. Licsensed Insurance Agent.
 
 <div id="webaddress">
 <a href="hughfkmiller@gmail.com">hughfkmiller@gmail.com</a>
